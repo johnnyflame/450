@@ -1,0 +1,26 @@
+    """
+    Temple's components:
+        
+    - podium
+    - column base
+    - column pillars
+    - body
+    - top
+    - roof
+    - Dome
+    - Stairs
+    """
+    '''
+    Ideas for randomization :
+        
+        -body type (dome or square)
+        -Height
+        -Orders (Number of columns in front and side
+        -Size Of the pillars
+        -The type of order (Ionian, Doric, Corinthian, Composite)
+        -Fluted vs unfluted
+        -Material/texture
+        -woreness? (small probability that it is just a bunch of broken pillars, like the temple of Apollo)
+    
+    '''
+    
